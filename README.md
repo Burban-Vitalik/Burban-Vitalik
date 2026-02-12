@@ -1,6 +1,27 @@
 # 💫 About Me:
-👋 Hi, I'm Vitalik<br>🔭 I'm currently working on: a full-stack Sport Tracker app that helps users track workouts, nutrition, and progress — built with React, TypeScript, Node.js, MongoDB, and Material UI<br>🤝 I'm looking to collaborate on: fitness-related web apps, or any projects using React and modern backend technologies<br>💡 I'm looking for help with: designing scalable backend architecture and integrating analytics features<br>📚 I'm currently learning: advanced TypeScript, PostgreSQL with Prisma, and performance optimization techniques<br>💬 Ask me about: React, TypeScript, Formik, MUI, and building clean and responsive UIs<br>😄 Fun fact: I’ve been training in the gym for 4+ years — now I’m building a tool to make workouts smarter 💥<br>
+👋 👋 Hi, I’m a Software Engineer with 4+ years of commercial experience working across product companies, service teams, and client-driven projects.
 
+I work on web applications end to end; from understanding business goals and planning solutions, to building frontend, backend, and taking responsibility for the final result.
+
+🏗 What I work with
+I build products from scratch, rewrite and modernize legacy systems, and work with existing platforms where architecture, scalability, and reliability matter.
+My focus is not just on writing code, but on making solid technical decisions that support business growth.
+
+🧠 What I’m strong at
+• System and application architecture
+• Microservice-based backend development
+• Turning complex problems into simple, maintainable solutions
+• Delivering simple features fast and complex ones thoughtfully
+
+⚙️ Tech stack
+Frontend: React / Next, Next.js, TypeScript, Tailwind CSS, Material UI
+Backend: Node.js, NestJS, REST, GraphQL, PostgreSQL, Prisma, Firebase, Supabase
+Tools: Git, Docker, Storybook, CI/CD, Figma
+
+🚀 What I’m looking for
+Teams and projects where engineering quality, ownership, and long-term thinking are valued.
+
+📩 Feel free to message me, always open to a good conversation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitalik-burban-161864202/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burbanvitalik2002@gmail.com) 
