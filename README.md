@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 👋 Hi, I’m a Software Engineer with 4+ years of commercial experience working across product companies, service teams, and client-driven projects.
+👋 👋 Hi, I’ve been a Software Engineer since 2020. I have experience working across product companies, service teams, and client-driven projects. I've worked as a Project Manager, Sales Manager, and for the last years as Full-Stack Developer.
 
 I work on web applications end to end; from understanding business goals and planning solutions, to building frontend, backend, and taking responsibility for the final result.
 
